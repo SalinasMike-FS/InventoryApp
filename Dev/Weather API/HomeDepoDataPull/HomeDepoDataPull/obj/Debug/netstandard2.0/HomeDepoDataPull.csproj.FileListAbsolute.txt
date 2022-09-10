@@ -1,0 +1,15 @@
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/bin/Debug/netstandard2.0/HomeDepoDataPull.deps.json
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/bin/Debug/netstandard2.0/HomeDepoDataPull.dll
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/bin/Debug/netstandard2.0/ref/HomeDepoDataPull.dll
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/bin/Debug/netstandard2.0/HomeDepoDataPull.pdb
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/HomeDepoDataPull.csproj.AssemblyReference.cache
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/HomeDepoDataPull.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/HomeDepoDataPull.AssemblyInfoInputs.cache
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/HomeDepoDataPull.AssemblyInfo.cs
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/HomeDepoDataPull.csproj.CoreCompileInputs.cache
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/HomeDepoDataPull.dll
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/ref/HomeDepoDataPull.dll
+/Users/mikesalinas/Projects/HomeDepoDataPull/HomeDepoDataPull/HomeDepoDataPull/obj/Debug/netstandard2.0/HomeDepoDataPull.pdb

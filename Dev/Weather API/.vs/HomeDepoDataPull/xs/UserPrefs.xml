@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{376AF032-102D-4C8B-BF88-C488A34ABDA8}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_xl_-_api_28" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MonoDevelop.Ide.ItemProperties.HomeDepoDataPull.Android PreferredExecutionTarget="Android.pixel_2_xl_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HomeDepoDataPull.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeDepoDataPull/HomeDepoDataPull/Models/DataManager.cs">
+    <Files>
+      <File FileName="HomeDepoDataPull/HomeDepoDataPull/MainPage.xaml.cs" Line="26" Column="14" />
+      <File FileName="HomeDepoDataPull/HomeDepoDataPull/MainPage.xaml" Line="13" Column="67" />
+      <File FileName="HomeDepoDataPull/HomeDepoDataPull/Models/ProductData.cs" Line="13" Column="42" />
+      <File FileName="HomeDepoDataPull/HomeDepoDataPull/Models/DataManager.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeDepoDataPull" expanded="True">
+            <Node name="HomeDepoDataPull" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="DataManager.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="HomeDepoDataPull.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
