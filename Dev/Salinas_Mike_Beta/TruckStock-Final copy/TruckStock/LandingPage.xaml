@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TruckStock.LandingPage"
+              Title="PROFILE" IconImageSource="profile.png">
+
+    <StackLayout BackgroundColor="WhiteSmoke" >
+        <Frame BackgroundColor="WhiteSmoke" Padding="12" CornerRadius="0">
+            <Label Text="PROFILE" HorizontalTextAlignment="Center" TextColor="Black" FontSize="36"/>
+        </Frame>
+
+        <Label x:Name="user_name" TextColor="Blue"/>
+        <Label x:Name="user_email" TextColor="Blue"/>
+        <Label x:Name="user_phone" TextColor="Blue"/>
+        <Label x:Name="user_password" TextColor="Blue"/> 
+        <Label x:Name="user_city"/>
+        <Label x:Name="user_state"/>
+        <Button x:Name="getWeatherButton"    Text="Get Weather" BackgroundColor="Crimson" TextColor="Black"/>
+        <Label x:Name="weatherLocation"    Text="Location:" TextColor="Blue"/>
+        <Label x:Name="currentTemp"    Text="Temp: " TextColor="Blue"/>
+        <Label x:Name="weatherDescription"    Text="Weather Desciption: " TextColor="Blue"/>
+
+        
+
+    </StackLayout>
+
+</ContentPage>
+

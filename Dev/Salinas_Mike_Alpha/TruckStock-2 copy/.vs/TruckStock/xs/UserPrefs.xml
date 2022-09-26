@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{D0CCBB8C-FE59-43C8-90B7-BD315C9F07DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TruckStock/Models/DataManager.cs">
+    <Files>
+      <File FileName="TruckStock/SignIn.xaml" Line="8" Column="39" />
+      <File FileName="TruckStock/SignUp.xaml" />
+      <File FileName="TruckStock/Models/DataManager.cs" Line="60" Column="1" />
+      <File FileName="TruckStock/SignIn.xaml.cs" />
+      <File FileName="TruckStock/LandingPage.xaml.cs" />
+      <File FileName="TruckStock/LandingPage.xaml" />
+      <File FileName="TruckStock/Models/WeatherData.cs" />
+      <File FileName="TruckStock/Models/SavetheUser.cs" />
+      <File FileName="TruckStock/Models/User.cs" />
+      <File FileName="TruckStock/SignUp.xaml.cs" />
+      <File FileName="TruckStock/Models/Inventroy.cs" />
+      <File FileName="TruckStock/TruckInventory.xaml" Line="7" Column="23" />
+      <File FileName="TruckStock/TruckInventory.xaml.cs" />
+      <File FileName="TruckStock/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TruckStock" expanded="True">
+            <Node name="TruckStock" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="DataManager.cs" selected="True" />
+              </Node>
+              <Node name="TruckInventory.xaml" expanded="True" />
+            </Node>
+            <Node name="TruckStock.Android" expanded="True" />
+            <Node name="TruckStock.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MonoDevelop.Ide.ItemProperties.TruckStock.Android PreferredExecutionTarget="Android.pixel_2_xl_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_xl_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mikesalinas/Downloads/TruckStock-2/TruckStock/Models/DataManager.cs" relfile="TruckStock/Models/DataManager.cs" line="35" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

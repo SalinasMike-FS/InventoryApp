@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{D0CCBB8C-FE59-43C8-90B7-BD315C9F07DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TruckStock/WelcomePage.xaml.cs">
+    <Files>
+      <File FileName="TruckStock/TruckInventory.xaml.cs" Line="1" Column="1" />
+      <File FileName="TruckStock/TruckInventory.xaml" Line="30" Column="121" />
+      <File FileName="TruckStock/WelcomePage.xaml.cs" Line="24" Column="1" />
+      <File FileName="TruckStock/WelcomePage.xaml" Line="12" Column="34" />
+      <File FileName="TruckStock/TaskEntryPage.xaml.cs" Line="43" Column="104" />
+      <File FileName="TruckStock/TaskEntryPage.xaml" Line="10" Column="64" />
+      <File FileName="TruckStock/SignUp.xaml.cs" Line="33" Column="57" />
+      <File FileName="TruckStock/SignUp.xaml" Line="27" Column="1" />
+      <File FileName="TruckStock/SignIn.xaml.cs" Line="17" Column="37" />
+      <File FileName="TruckStock/SignIn.xaml" Line="20" Column="134" />
+      <File FileName="TruckStock/MainPage.xaml.cs" Line="22" Column="59" />
+      <File FileName="TruckStock/MainPage.xaml" Line="20" Column="1" />
+      <File FileName="TruckStock/LandingPage.xaml.cs" Line="17" Column="29" />
+      <File FileName="TruckStock/LandingPage.xaml" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TruckStock" expanded="True">
+            <Node name="TruckStock" expanded="True">
+              <Node name="LandingPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="SignIn.xaml" expanded="True" />
+              <Node name="SignUp.xaml" expanded="True" />
+              <Node name="TaskEntryPage.xaml" expanded="True" />
+              <Node name="TruckInventory.xaml" expanded="True" />
+              <Node name="WelcomePage.xaml" expanded="True">
+                <Node name="WelcomePage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TruckStock.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TruckStock.Android PreferredExecutionTarget="Android.pixel_2_xl_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YpxvjAOlA5ExZ4IAKOXImBxRzTZRVUYCbIIqF3BundAyMRMo6aCMlYmG8PV31jO3+PrAY4w4zW4+WwWcFIhtMA==",
+  "success": true,
+  "projectFilePath": "/Users/mikesalinas/Downloads/TruckStock-4/TruckStock.iOS/TruckStock.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikesalinas/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/mikesalinas/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mikesalinas/.nuget/packages/xam.plugins.messaging/5.2.0/xam.plugins.messaging.5.2.0.nupkg.sha512",
+    "/Users/mikesalinas/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/mikesalinas/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

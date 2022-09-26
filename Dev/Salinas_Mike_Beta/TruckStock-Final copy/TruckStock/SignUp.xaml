@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TruckStock.SignUp">
+    <ScrollView>
+        <StackLayout>
+            <Entry  x:Name="UserFirstName" Placeholder="Enter FirstName"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+            <Entry  x:Name="UserLastName" Placeholder="Enter LastName"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+            <Entry x:Name="UserPhoneNumber" Placeholder="Emter Phone Number" Keyboard="Telephone" HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+            <Entry x:Name="UserEmail" Placeholder="Enter Email" Keyboard="Email" HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+            <Entry x:Name="UserCity" Placeholder="Enter City"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+            <Entry x:Name="UserState" Placeholder="Enter State"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+            <Entry x:Name="UserPassword" Placeholder="Enter Password" IsPassword="True" HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/> 
+            <Entry x:Name="UserPasswordVerify" Placeholder="Re-Enter Password" IsPassword="True"  HorizontalTextAlignment="Center" HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Button x:Name="saveButton" Text="Add Profile" HorizontalOptions="CenterAndExpand">
+                </Button>
+
+            </StackLayout>
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
+

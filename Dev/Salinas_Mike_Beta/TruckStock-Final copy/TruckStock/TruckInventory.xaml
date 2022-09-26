@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TruckStock.TruckInventory"
+    Title="Inventory" IconImageSource="inventory.png">
+    <StackLayout BackgroundColor="WhiteSmoke">
+        <Frame BackgroundColor="WhiteSmoke" Padding="12" CornerRadius="0">
+            <Label Text="TRUCK INVENTORY" HorizontalTextAlignment="Center" TextColor="Black" FontSize="36"/>
+        </Frame>
+        <ScrollView>
+            <ListView x:Name="listView" >
+                <ListView.ItemTemplate BackgroundColor="Green">
+                    <DataTemplate>
+                        <ImageCell DetailColor="White" TextColor="YellowGreen" x:Name="imageCell" Text="{Binding Text}" Detail ="{Binding Date}" ImageSource="{ Binding image}" >
+
+
+                        </ImageCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+        <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
+            <Button x:Name="addButton" Text="+" HorizontalOptions="End" BackgroundColor="Blue" TextColor="Black"/>
+            <Button x:Name="clearButton" Text="Delete All" HorizontalOptions="End" IsVisible="False" BackgroundColor="Red" TextColor="Black"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
+            <Label Text="Email:" TextColor="White" VerticalOptions="Center"/>
+            <Entry x:Name="emailEntry" Placeholder="Enter Email" HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="sendEmailButton" Text="Send" HorizontalOptions="End" BackgroundColor="Red" TextColor="Black"/>
+        </StackLayout>
+
+    </StackLayout>
+
+
+</ContentPage>

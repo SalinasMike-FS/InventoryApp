@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TruckStock.MainPage">
+
+    <StackLayout  >
+        <Frame BackgroundColor="#2196F3" Padding="12" CornerRadius="0">
+            <Label Text="Truck Stock" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Image x:Name="app_logo" Source="boxes.png" />
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="signInButton" Text="Sign-In" HorizontalOptions="FillAndExpand" TextColor="White" BackgroundColor="SpringGreen"/>
+            <Button x:Name="signUpButton" Text="Sign -Up" HorizontalOptions="FillAndExpand" TextColor="White" BackgroundColor="Blue"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
+

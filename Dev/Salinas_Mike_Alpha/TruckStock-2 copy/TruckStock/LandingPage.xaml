@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TruckStock.LandingPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="12" CornerRadius="0">
+            <Label Text="Hello Signed" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Label x:Name="user_name" />
+        <Label x:Name="user_email"/>
+        <Label x:Name="user_phone"/>
+        <Label x:Name="user_password"/> 
+        <Label x:Name="user_city"/>
+        <Label x:Name="user_state"/>
+         <Button x:Name="getWeatherButton"    Text="Get Weather" />
+
+         <Label x:Name="weatherLocation"    Text="Location:" />
+        <Label x:Name="currentTemp"    Text="Temp: " />
+        <Label x:Name="weatherDescription"    Text="Weather Desciption: " />
+
+    </StackLayout>
+
+</ContentPage>
+
