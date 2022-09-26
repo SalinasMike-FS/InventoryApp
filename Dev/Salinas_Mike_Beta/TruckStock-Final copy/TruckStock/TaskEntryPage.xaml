@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TruckStock.TaskEntryPage">
+
+    <StackLayout Margin="20">
+        <Label Text="Add Part/Tool" FontSize="30" BackgroundColor="DeepSkyBlue" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" TextColor="White"/>
+        <Editor x:Name="taskEditor" Placeholder="Enter Event Name" HeightRequest="50"  />
+        <Label Text="Enter The Date And Time Of Added Part/Tool" FontSize="20" />
+        <DatePicker x:Name="curDate" Format="D"  />
+        <TimePicker x:Name="curTime" Format="T" />
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+            <Button x:Name="saveButton" Text="Save" HorizontalOptions="StartAndExpand">
+            </Button>
+            <Button x:Name="deleteButton" Text="Delete" HorizontalOptions="EndAndExpand">
+            </Button>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

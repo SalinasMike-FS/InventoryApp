@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TruckStock.SignIn">
+    <ScrollView>
+        <StackLayout BackgroundColor="WhiteSmoke">
+            <Image x:Name="login_logo" Source="login.png" HeightRequest="200"/>
+            <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
+                <Label Text="Username:" TextColor="Black" VerticalOptions="Center"/>
+                <Entry x:Name="usernameEntry" Placeholder="username" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Margin="10,10,10,10">
+                <Label Text="Password:" TextColor="Black" VerticalOptions="Center"/>
+                <Entry x:Name="passwordEntry" IsPassword="true" HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+
+
+            <Button Text="Login" Clicked="OnLoginButtonClicked" HorizontalOptions="FillAndExpand" Background="Blue" TextColor="Black"/>
+            <Label x:Name="messageLabel" />
+
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>
+
